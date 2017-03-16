@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="XBeeApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XBeeApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ListBox x:Name="listXBee" HorizontalAlignment="Left" Height="100" Margin="10,45,0,0" VerticalAlignment="Top" Width="285">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,20,0,0" TextWrapping="Wrap" Text="XBee Serial Port List" VerticalAlignment="Top"/>
+        <Button x:Name="btnConnect" Content="Connect" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Click="ConnectToXBee"/>
+        <Button x:Name="btnDisconnect" Content="Disconnect" HorizontalAlignment="Left" Margin="90,165,0,0" VerticalAlignment="Top" Click="Disconnect"/>
+        <TextBlock x:Name="txtState" HorizontalAlignment="Left" Margin="188,177,0,0" TextWrapping="Wrap" Text="Not connected" VerticalAlignment="Top" Foreground="#FFCA1E1E"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,225,0,0" TextWrapping="Wrap" Text="A value from XBee:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtValue" HorizontalAlignment="Left" Margin="154,225,0,0" TextWrapping="Wrap" Text="-0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>

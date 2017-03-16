@@ -1,0 +1,10 @@
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Solid.Arduino.IntegrationTest.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Solid.Arduino.IntegrationTest.pdb
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Solid.Arduino.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Solid.Arduino.pdb
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Solid.Arduino.xml
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\obj\Debug\Solid.Arduino.IntegrationTest.csprojResolveAssemblyReference.cache
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\obj\Debug\Solid.Arduino.IntegrationTest.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.IntegrationTest\obj\Debug\Solid.Arduino.IntegrationTest.pdb

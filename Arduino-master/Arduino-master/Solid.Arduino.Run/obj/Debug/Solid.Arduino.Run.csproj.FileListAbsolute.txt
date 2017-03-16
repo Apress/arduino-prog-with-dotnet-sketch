@@ -1,0 +1,9 @@
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.Run.exe.config
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.Run.exe
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.Run.pdb
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.pdb
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\bin\Debug\Solid.Arduino.xml
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\obj\Debug\Solid.Arduino.Run.csprojResolveAssemblyReference.cache
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\obj\Debug\Solid.Arduino.Run.exe
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino.Run\obj\Debug\Solid.Arduino.Run.pdb

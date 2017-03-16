@@ -1,0 +1,8 @@
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\bin\Debug\Solid.Arduino.XML
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\bin\Debug\Solid.Arduino.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\bin\Debug\Solid.Arduino.pdb
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\obj\Debug\Solid.Arduino.csprojResolveAssemblyReference.cache
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\obj\Debug\Solid.Arduino.Messages.resources
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\obj\Debug\Solid.Arduino.csproj.GenerateResource.Cache
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\obj\Debug\Solid.Arduino.dll
+D:\mybooks\apress\arduino_dotnet\codes\Arduino-master\Arduino-master\Solid.Arduino\obj\Debug\Solid.Arduino.pdb
